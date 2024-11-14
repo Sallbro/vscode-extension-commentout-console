@@ -1,0 +1,33 @@
+{
+  "name": "comment-console-log",
+  "displayName": "Comment Console Log",
+  "description": "Comments out all console.log statements in the project",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "activationEvents": [
+    "onCommand:extension.commentOutConsoleLogs"
+  ],
+  "main": "./out/extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "extension.commentOutConsoleLogs",
+        "title": "Comment Out All Console.log Statements"
+      }
+    ]
+  },
+  "scripts": {
+    "vscode:prepublish": "npm run compile",
+    "compile": "tsc -p ./",
+    "watch": "tsc -watch -p ./",
+    "postinstall": "node ./node_modules/vscode/bin/install"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "@types/node": "^14.14.6",
+    "typescript": "^4.0.0",
+    "vscode": "^1.1.37"
+  }
+}
