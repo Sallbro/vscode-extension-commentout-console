@@ -1,8 +1,8 @@
 # Comment Console Logs - VS Code Extension
 
-[![Version](https://ibb.co/2KNyBGY)](https://marketplace.visualstudio.com/items?itemName=your-publisher-name.comment-console-log)
-[![Installs](https://ibb.co/2KNyBGY)](https://marketplace.visualstudio.com/items?itemName=your-publisher-name.comment-console-log)
-[![Rating](https://ibb.co/2KNyBGY)](https://marketplace.visualstudio.com/items?itemName=your-publisher-name.comment-console-log)
+[![Version](https://ibb.co/2KNyBGY)](https://marketplace.visualstudio.com/items?itemName=sallbro.comment-console-log&ssr=false#version-history)
+[![Installs](https://ibb.co/2KNyBGY)](https://marketplace.visualstudio.com/items?itemName=sallbro.comment-console-log)
+[![Rating](https://ibb.co/2KNyBGY)](https://marketplace.visualstudio.com/items?itemName=sallbro.comment-console-log&ssr=false#review-details)
 
 ## Overview
 

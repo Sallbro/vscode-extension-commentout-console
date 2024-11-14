@@ -2,7 +2,12 @@
   "name": "comment-console-log",
   "displayName": "Comment Console Log",
   "description": "Comments out all console.log statements in the project",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "publisher": "Sallbro",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sallbro/vscode-extension-commentout-console"
+  },
   "engines": {
     "vscode": "^1.60.0"
   },
