@@ -1,8 +1,8 @@
 # Comment Console Logs - VS Code Extension
 
-[![Version](https://ibb.co/2KNyBGY)](https://marketplace.visualstudio.com/items?itemName=sallbro.comment-console-log&ssr=false#version-history)
-[![Installs](https://ibb.co/2KNyBGY)](https://marketplace.visualstudio.com/items?itemName=sallbro.comment-console-log)
-[![Rating](https://ibb.co/2KNyBGY)](https://marketplace.visualstudio.com/items?itemName=sallbro.comment-console-log&ssr=false#review-details)
+[![Version](https://i.ibb.co/F7VKtRq/logos-7531804-1.png)](https://marketplace.visualstudio.com/items?itemName=sallbro.comment-console-log&ssr=false#version-history)
+[![Installs](https://i.ibb.co/F7VKtRq/logos-7531804-1.png)](https://marketplace.visualstudio.com/items?itemName=sallbro.comment-console-log)
+[![Rating](https://i.ibb.co/F7VKtRq/logos-7531804-1.png)](https://marketplace.visualstudio.com/items?itemName=sallbro.comment-console-log&ssr=false#review-details)
 
 ## Overview
 
@@ -21,6 +21,12 @@ Before running the extension:
 
 ```typescript
 console.log("This is a log message");
-const a = 10;
-console.log("Another log message");
+const a = 10; console.log("Another log message");
+```
+
+After running the extension:
+
+```typescript
+//console.log("This is a log message");
+const a = 10; //console.log("Another log message");
 ```
